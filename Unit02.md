@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL202: Philosophy of Science"
+course_description: "A survey of philosophical issues surrounding the concepts and practices of modern science, aimed to familiarize you with philosophical issues about science, as well as equip you to critically interpret popular reports about contemporary scientific research."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Observation, Theory-Ladenness, and Objectivity** <span
 id="2"></span> 
 “*[U]nless we make default assumptions, the world would simply make no

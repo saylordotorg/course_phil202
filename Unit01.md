@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL202: Philosophy of Science"
+course_description: "A survey of philosophical issues surrounding the concepts and practices of modern science, aimed to familiarize you with philosophical issues about science, as well as equip you to critically interpret popular reports about contemporary scientific research."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: What Is Philosophy of Science?** <span id="1"></span> 
 “Philosophy of science is about as useful to scientists as ornithology
 is to

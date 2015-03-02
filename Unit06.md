@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL202: Philosophy of Science"
+course_description: "A survey of philosophical issues surrounding the concepts and practices of modern science, aimed to familiarize you with philosophical issues about science, as well as equip you to critically interpret popular reports about contemporary scientific research."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Social Dimensions of Scientific Practice** <span
 id="6"></span> 
 “Science is the belief in the ignorance of experts.” [1]  

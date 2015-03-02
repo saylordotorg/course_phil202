@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL202: Philosophy of Science"
+course_description: "A survey of philosophical issues surrounding the concepts and practices of modern science, aimed to familiarize you with philosophical issues about science, as well as equip you to critically interpret popular reports about contemporary scientific research."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Scientific Reasoning** <span id="3"></span> 
 “When playing Russian roulette, the fact that the first shot got off
 safely is little comfort for the next.” [1]  
