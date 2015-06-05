@@ -109,4 +109,12 @@ approximately 93 hours to complete.  Each unit includes a “time
 advisory” that lists the amount of time you are expected to spend on
 each subunit.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/phil202/Unit01/)
+- [Unit 2](https://legacy.saylor.org/phil202/Unit02/)
+- [Unit 3](https://legacy.saylor.org/phil202/Unit03/)
+- [Unit 4](https://legacy.saylor.org/phil202/Unit04/)
+- [Unit 5](https://legacy.saylor.org/phil202/Unit05/)
+- [Unit 6](https://legacy.saylor.org/phil202/Unit06/)
+- [Unit 7](https://legacy.saylor.org/phil202/Unit07/)
