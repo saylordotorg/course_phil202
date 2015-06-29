@@ -107,7 +107,7 @@ id="2.2.1"></span> 
 -   **Reading: Norwood Russell Hanson’s Patterns of Discovery: “Chapter
     1: Observation”**
     Link: Norwood Russell Hanson’s *Patterns of Discovery*: [“Chapter 1:
-    Observation”](http://www.cavehill.uwi.edu/bnccde/PH29A/hanson.html)
+    Observation”](http://www.open.uwi.edu/sites/default/files/bnccde/PH29A/hanson.html)
     (HTML)  
       
      Instructions: Please click on the above link and read the entire
