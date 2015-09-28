@@ -128,3 +128,4 @@ each subunit.
 - [Unit 5](https://legacy.saylor.org/phil202/Unit05/)
 - [Unit 6](https://legacy.saylor.org/phil202/Unit06/)
 - [Unit 7](https://legacy.saylor.org/phil202/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PHIL/PHIL202/PHIL202-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PHIL/PHIL202/PHIL202-FinalExam-Answers.html)
