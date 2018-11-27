@@ -169,7 +169,7 @@ Upon completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Assessment 1”**
     Link: The Saylor Foundation’s [“Assessment
-    1”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit1-Assessment1-FINAL.pdf)
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit1-Assessment1-FINAL.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to use your initial
@@ -177,10 +177,10 @@ Upon completion of this unit, the student will be able to:
     preliminary evaluation of Richard Feynman’s remark that “Philosophy
     of science is about as useful to scientists as ornithology is to
     birds.”  Use the [“Assessment 1 – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit1-Assessment1-Guide-FINAL.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit1-Assessment1-Guide-FINAL.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 1 – Self-Assessment
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit1-Assessment1-Rubric-FINAL.pdf)
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit1-Assessment1-Rubric-FINAL.pdf)
     (PDF).  
       
      This assessment will take approximately 2 hours to complete.  

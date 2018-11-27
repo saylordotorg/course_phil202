@@ -268,17 +268,17 @@ Upon completion of this unit, the student will be able to:
 **3.1.5 Review of Induction** <span id="3.1.5"></span> 
 -   **Reading: The Saylor Foundation: “Assessment 3”**
     Link: The Saylor Foundation: [“Assessment
-    3”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment3-FINAL.pdf)
+    3”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment3-FINAL.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to explain Hume’s
     problem of induction and the significance of that problem for the
     reliability of enumerative induction, Mill’s methods, and
     colligation.  Use the [“Assessment 3 – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment3-Guide-FINAL.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment3-Guide-FINAL.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 3 – Self-Assessment
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment3-Rubric-FINAL.pdf)
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment3-Rubric-FINAL.pdf)
     (PDF).  
       
      Completing this assessment will take approximately 2 hours.  
@@ -579,7 +579,7 @@ id="3.2.2"></span> 
 **3.2.7 Review of Confirmation** <span id="3.2.7"></span> 
 -   **Reading: The Saylor Foundation: “Assessment 4”**
     Link: The Saylor Foundation: [“Assessment
-    4”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment4-Final.pdf)
+    4”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment4-Final.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to describe the
@@ -587,10 +587,10 @@ id="3.2.2"></span> 
     confirmation, to explain how each of these accounts purports to
     solve the problem of induction, and to critically compare the two
     accounts.  Use the [“Assessment 4 – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment4-Guide-Final.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment4-Guide-Final.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 4 – Self-Assessment
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment4-Rubric-Final.pdf)
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment4-Rubric-Final.pdf)
     (PDF).  
       
      Completing this assessment will take approximately 2 hours.  
@@ -889,7 +889,7 @@ id="3.2.2"></span> 
 **3.3.6 Review of Explanation** <span id="3.3.6"></span> 
 -   **Assessment: The Saylor Foundation: “Assessment 5”**
     Link: The Saylor Foundation: [“Assessment
-    5”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit3-Assessment5-Final.pdf)
+    5”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit3-Assessment5-Final.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to interpret, in light
@@ -897,10 +897,10 @@ id="3.2.2"></span> 
     explanation of why Guinness bubbles fall, and to critically evaluate
     the extent to which each of these two accounts illuminate why their
     explanation is explanatory.  Use the [“Assessment 5 – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment5-Guide-Final.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment5-Guide-Final.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 5 – Self-Assessment
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment5-Rubric-Final.pdf)
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit3-Assessment5-Rubric-Final.pdf)
     (PDF).  
       
      Completing this assessment will take approximately 2 hours.  

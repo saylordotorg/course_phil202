@@ -324,16 +324,16 @@ id="4.5"></span> 
 
 -   **Assessment: The Saylor Foundation: “Assessment 6”**
     Link: The Saylor Foundation: [“Assessment
-    6”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit4-Assessment6-Final.pdf) (PDF)  
+    6”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit4-Assessment6-Final.pdf) (PDF)  
       
      Instructions: This assessment will ask you to interpret the
     development of physics from 1880 to 1910 (summarized in Kragh’s
     article) using an account of theory change and scientific progress
     (by Kuhn, Lakatos, or Laudan).  Use the [“Assessment 6 – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit4-Assessment6-Guide-Final.pdf) (PDF)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit4-Assessment6-Guide-Final.pdf) (PDF)
     to help you.  Please check your essays against the [“Assessment 6 –
     Self-Assessment
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit4-Assessment6-Rubric-Final.pdf) (PDF).  
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit4-Assessment6-Rubric-Final.pdf) (PDF).  
       
      Completing this assessment will take approximately 2 hours.  
       
