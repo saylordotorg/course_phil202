@@ -504,7 +504,7 @@ Upon completion of this unit, the student will be able to:
 id="5.5"></span> 
 -   **Assessment: The Saylor Foundation: “Assessment 7”**
     Link: The Saylor Foundation: [“Assessment
-    7”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit5-Assessment7-FINAL.pdf)
+    7”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit5-Assessment7-FINAL.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to examine a popular
@@ -512,10 +512,10 @@ id="5.5"></span> 
     the proper interpretation of scientific knowledge, and to critically
     examine those attitudes in light of the readings in Unit 5.  Use the
     [“Assessment 7 – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit5-Assessment7-Guide-FINAL.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit5-Assessment7-Guide-FINAL.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 7 – Self-Assessment
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2012/11/PHIL202-Unit5-Assessment7-Rubric-FINAL.pdf)
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit5-Assessment7-Rubric-FINAL.pdf)
     (PDF).  
       
      Completing this assessment will take approximately 2 hours.  
