@@ -566,7 +566,7 @@ id="6.6"></span> 
 
 -   **Assessment: The Saylor Foundation: “Assessment 8”**
     Link: The Saylor Foundation: [“Assessment
-    8”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit6-Assessment8-FINAL.pdf)
+    8”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/PHIL202-Unit6-Assessment8-FINAL.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to examine a
@@ -575,10 +575,10 @@ id="6.6"></span> 
     between science and politics / policy-making, and then to critically
     assess the appropriateness of these attitudes in light of the
     readings in Unit 6.  Use the [“Assessment 8 – Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit6-Assessment8-Guide-FINAL.pdf)
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/PHIL202-Unit6-Assessment8-Guide-FINAL.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 8 – Self-Assessment
-    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/PHIL202-Unit6-Assessment8-Rubric-FINAL.pdf)
+    Rubric”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/PHIL202-Unit6-Assessment8-Rubric-FINAL.pdf)
     (PDF).  
       
      Completing this assessment will take approximately 2 hours.  
