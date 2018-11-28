@@ -279,17 +279,17 @@ id="2.2.2"></span> 
 id="2.4"></span> 
 -   **Assessment: The Saylor Foundation: “Assessment 2”**
     Link: The Saylor Foundation: [“Assessment
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit2-Assessment2-FINAL.pdf)
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PHIL202-Unit2-Assessment2-FINAL.pdf)
     (PDF)  
       
      Instructions: This assessment will ask you to apply and assess key
     views and arguments regarding the nature of observation and whether
     the theory-ladenness of observation compromises the objectivity of
     scientific inquiry.  Use the [“Assessment 2 – Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit2-Assessment2-Guide-FINAL.pdf)
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PHIL202-Unit2-Assessment2-Guide-FINAL.pdf)
     (PDF) to help you.  Please check your essays against the
     [“Assessment 2 – Self-Assessment
-    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PHIL202-Unit2-Assessment2-Rubric-FINAL.pdf)
+    Rubric”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PHIL202-Unit2-Assessment2-Rubric-FINAL.pdf)
     (PDF).  
       
      Completing this assessment will take approximately 1 hour.  
